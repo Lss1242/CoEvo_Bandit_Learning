@@ -1,0 +1,7 @@
+flit_core==3.9.0 
+gurobipy==11.0.3 
+numpy==2.1.1 
+pandas==2.2.3
+setuptools==75.1.0
+wheel==0.44.0
+scipy==1.14.1
