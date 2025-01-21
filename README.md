@@ -35,7 +35,7 @@ conda create -n venvgame python=3.11
 conda activate venvgame
 ```
 
-### Step 2: Create and Activate the Virtual Environment
+### Step 2: Install the required packages
 
 
 ```bash
