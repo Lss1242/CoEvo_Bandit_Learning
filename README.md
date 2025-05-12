@@ -21,26 +21,26 @@ First, navigate to your project directory and create a virtual environment using
 cd my-project
 
 # Create a virtual environment with Python 3.11
-virtualenv --python=python3.11 venv
+virtualenv --python=python3.11 venvgame
 
 ```
 
 #### Option 2: Using `conda`
 
 ```bash
-# Create a Conda environment named 'venv' with Python 3.11
-conda create -n venv python=3.11
+# Create a Conda environment named 'venvgame' with Python 3.11
+conda create -n venvgame python=3.11
 
 # Activate the environment
-conda activate venv
+conda activate venvgame
 ```
 
-### Step 2: Create and Activate the Virtual Environment
+### Step 2: Install the required packages
 
 
 ```bash
 # Activate the virtual environment (Linux/macOS)
-source venv/bin/activate
+source venvgame/bin/activate
 
 pip3 install -r requirements.txt
 
