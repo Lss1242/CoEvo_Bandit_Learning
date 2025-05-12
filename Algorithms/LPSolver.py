@@ -1,3 +1,5 @@
+# The following NE solver is adapted from the code: https://github.com/shuoyang2000/nash_equilibrium_solver/blob/main/solver.py and https://www.math.ucla.edu/~tom/gamesolve.html   
+
 import numpy as np
 from gurobipy import Model, GRB
 import time
