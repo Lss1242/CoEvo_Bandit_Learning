@@ -1,6 +1,6 @@
-# IJCAI2025 Code
+# Matrix Games with Bandit Feedback
 
-This repository contains the code for our research paper submitted to IJCAI 2025. 
+This repository contains the code for our research paper accepted to IJCAI 2025. 
 The code includes Python implementation of algorithms for matrix games with bandit feedback.
 All algorithms are in folder name after `Algorithms`.
 
