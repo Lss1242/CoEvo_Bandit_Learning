@@ -1,4 +1,4 @@
-# Matrix Games with Bandit Feedback
+# CoEvo_Bandit_Learning on Matrix Games with Bandit Feedback
 
 This repository contains the code for our research paper accepted to IJCAI 2025. 
 The code includes Python implementation of algorithms for matrix games with bandit feedback.
