@@ -73,5 +73,18 @@ For clusters or larger experiments:
 You can use cluster job submission tools (like SLURM, PBS, etc.) to run multiple jobs in parallel.
 Each job can run a separate instance of an experiment, utilising multiprocessing for efficient resource usage.
 
-## License
-The code is released under the MIT License.
+## Licensing and Dependencies
+
+This project includes third-party code and dependencies:
+
+### Nash Equilibrium Solver
+
+Parts of this project are adapted from the repository [nash_equilibrium_solver](https://github.com/shuoyang2000/nash_equilibrium_solver) by Shuoyang Ding, which is licensed under the MIT License.
+
+### LP Solver Dependency
+
+The current version uses **Gurobi** as the LP solver, which **requires a license**.  
+Academic users may obtain a free academic license from Gurobi.  
+
+### License
+The code is released under the MIT License.  
