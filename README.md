@@ -74,4 +74,4 @@ You can use cluster job submission tools (like SLURM, PBS, etc.) to run multiple
 Each job can run a separate instance of an experiment, utilising multiprocessing for efficient resource usage.
 
 ## License
-The code is released under the MIT License
+The code is released under the MIT License.
